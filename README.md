@@ -1,4 +1,4 @@
-# Plano de Ensino - Lógica e Fundamentos de Prigramação
+# Plano de Ensino - Lógica e Fundamentos de Programação
 
 ## Descrição da Disciplina
 
