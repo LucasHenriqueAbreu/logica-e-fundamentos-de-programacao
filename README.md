@@ -1,8 +1,8 @@
-# Plano de Ensino - [Nome da Disciplina]
+# Plano de Ensino - Ligica e Fundamentos de Prigramação
 
 ## Descrição da Disciplina
 
-O curso de [Nome da Disciplina] destina-se a fornecer aos alunos uma introdução abrangente aos fundamentos da programação, lógica de programação e conceitos essenciais utilizando a linguagem de programação Python. Ao longo do curso, os participantes serão introduzidos a conceitos como tipos primitivos, operadores aritméticos, estruturas condicionais e de repetição, além de estruturas de dados como tuplas, listas e dicionários.
+OEsta disciplina destina-se a fornecer aos alunos uma introdução abrangente aos fundamentos da programação, lógica de programação e conceitos essenciais utilizando a linguagem de programação Python. Ao longo do curso, os participantes serão introduzidos a conceitos como tipos primitivos, operadores aritméticos, estruturas condicionais e de repetição, além de estruturas de dados como tuplas, listas e dicionários.
 
 ## Objetivos
 
