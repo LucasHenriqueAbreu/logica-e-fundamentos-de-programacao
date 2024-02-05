@@ -23,3 +23,6 @@
 - Reflexão sobre a importância de aprender a programar antes de utilizar recursos prontos.
 
 > “Truth can only be found in one place: the code.” - Uncle Bob
+* Usar sistema operacional baseado em linux;
+* Não fazer pelo gpt e copiar código online;
+* Pratique muito;
