@@ -1,0 +1,2 @@
+# Tabela verdade
+
