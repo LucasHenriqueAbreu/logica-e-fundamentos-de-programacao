@@ -1,4 +1,4 @@
-# Plano de Ensino - Ligica e Fundamentos de Prigramação
+# Plano de Ensino - Lógica e Fundamentos de Prigramação
 
 ## Descrição da Disciplina
 
