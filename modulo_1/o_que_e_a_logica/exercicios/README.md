@@ -2,24 +2,42 @@
 
 ## Exercícios Adicionais sobre Tabelas Verdade
 
-1. Construa uma tabela verdade para a expressão lógica "p OR (q AND r)".
-   
-2. Dada a proposição composta "p → q" (p implica q), determine seu valor de verdade para p = falso e q = verdadeiro.
+1. Construa uma tabela verdade para a proposição simples "p".
 
-3. Considere a proposição composta "¬p AND q". Se o valor de verdade de "¬p" é falso e o valor de verdade de q é verdadeiro, qual é o valor de verdade da proposição composta?
+2. Construa uma tabela verdade para a proposição simples "q".
 
-4. Construa uma tabela verdade para a expressão lógica "p XOR q" (ou exclusivo), onde XOR representa a operação ou exclusivo.
+3. Construa uma tabela verdade para a proposição composta "p ˆ q".
 
-5. Dada a proposição composta "(p OR q) AND r", determine o valor de verdade para p = verdadeiro, q = verdadeiro e r = falso.
+4. Construa uma tabela verdade para a proposição composta "p ∨ q".
 
-6. Seja a proposição composta "(p AND q) → r". Se o valor de verdade de "p AND q" é verdadeiro e o valor de verdade de r é falso, qual é o valor de verdade da proposição composta?
+5. Construa uma tabela verdade para a proposição composta "~p".
 
-7. Construa uma tabela verdade para a expressão lógica "p NOR q" (negação da operação OU), onde NOR representa a operação NOR.
+6. Construa uma tabela verdade para a proposição composta "~q".
 
-8. Dada a proposição composta "¬(p XOR q)", onde XOR representa a operação ou exclusivo, determine seu valor de verdade para p = verdadeiro e q = falso.
+7. Construa uma tabela verdade para a proposição composta "p ˆ (q ∨ ~r)".
 
-9. Considere a proposição composta "p ↔ q" (p se e somente se q). Se o valor de verdade de p é falso e o valor de verdade de q é verdadeiro, qual é o valor de verdade da proposição composta?
+8. Construa uma tabela verdade para a proposição composta "(~p ∨ q) ˆ (p ∨ ~q)".
 
-10. Construa uma tabela verdade para a expressão lógica "p NAND q" (negação da operação E), onde NAND representa a operação NAND.
+9. Construa uma tabela verdade para a proposição composta "~(p ˆ q)".
 
-Lembre-se de que esses exercícios podem ajudar os alunos a praticarem a construção de tabelas verdade e a aplicação de operações lógicas em diferentes contextos.
+10. Construa uma tabela verdade para a proposição composta "~(p ∨ q)".
+
+11. Construa uma tabela verdade para a proposição composta "p ˆ (q ∨ r) ˆ ~(p ∨ q)".
+
+12. Construa uma tabela verdade para a proposição composta "(p ∨ q) ˆ (~p ∨ ~q)".
+
+13. Construa uma tabela verdade para a proposição composta "(p ˆ q) ∨ (~p ˆ ~q)".
+
+14. Construa uma tabela verdade para a proposição composta "(p ˆ q) ∨ (r ˆ ~p ˆ ~q)".
+
+15. Construa uma tabela verdade para a proposição composta "~(p ˆ ~q) ∨ (p ˆ ~r)".
+
+16. Construa uma tabela verdade para a proposição composta "(~p ˆ q) ∨ (p ˆ ~q ˆ ~r)".
+
+17. Construa uma tabela verdade para a proposição composta "p ˆ q ˆ ~r ˆ (~p ∨ ~q)".
+
+18. Construa uma tabela verdade para a proposição composta "(p ˆ ~q) ∨ (q ˆ ~r) ∨ (p ˆ ~r)".
+
+19. Construa uma tabela verdade para a proposição composta "(p ∨ q ∨ r) ˆ ~(p ˆ q ˆ r)".
+
+20. Construa uma tabela verdade para a proposição composta "~(p ˆ q ˆ r) ∨ (p ∨ q ∨ r)".
