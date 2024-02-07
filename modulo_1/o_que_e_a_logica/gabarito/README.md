@@ -132,7 +132,59 @@
     | p   | q   | r   | ~p  | ~q  | ~r  | ~p ˆ q | p ˆ ~q ˆ ~r | (~p ˆ q) ∨ (p ˆ ~q ˆ ~r) |
     | --- | --- | --- | --- | --- | --- | ------ | ----------- | ------------------------ |
     | V   | V   | V   | F   | F   | F   | F      | F           | F                        |
-    | V   | V   | F   | F   | F   | V   | F      | V           | F                        |
+    | V   | V   | F   | F   | F   | V   | F      | F           | F                        |
     | V   | F   | V   | F   | V   | F   | F      | F           | F                        |
     | V   | F   | F   | F   | V   | V   | F      | F           | F                        |
-    | F   | V   | V   | V   | F   | F   | V
+    | F   | V   | V   | V   | F   | F   | V      | F           | V                        |
+    | F   | V   | F   | V   | F   | V   | V      | F           | V                        |
+    | F   | F   | V   | V   | V   | F   | F      | F           | F                        |
+    | F   | F   | F   | V   | V   | V   | F      | F           | F                        |
+
+17. **Construa uma tabela verdade para a proposição composta "p ˆ q ˆ ~r ˆ (~p ∨ ~q)".**
+    | p   | q   | r   | ~r  | ~p  | ~q  | ~p ∨ ~q | p ˆ q ˆ ~r ˆ (~p ∨ ~q) |
+    | --- | --- | --- | --- | --- | --- | ------- | ---------------------- |
+    | V   | V   | V   | F   | F   | F   | F       | F                      |
+    | V   | V   | F   | V   | F   | F   | F       | F                      |
+    | V   | F   | V   | F   | F   | V   | V       | F                      |
+    | V   | F   | F   | V   | F   | V   | V       | F                      |
+    | F   | V   | V   | F   | V   | F   | V       | F                      |
+    | F   | V   | F   | V   | V   | F   | V       | F                      |
+    | F   | F   | V   | F   | V   | V   | V       | F                      |
+    | F   | F   | F   | V   | V   | V   | V       | F                      |
+
+18. **Construa uma tabela verdade para a proposição composta "(p ˆ ~q) ∨ (q ˆ ~r) ∨ (p ˆ ~r)".**
+    | p   | q   | r   | ~q  | ~r  | p ˆ ~q | q ˆ ~r | p ˆ ~r | (p ˆ ~q) ∨ (q ˆ ~r) ∨ (p ˆ ~r) |
+    | --- | --- | --- | --- | --- | ------ | ------ | ------ | ------------------------------ |
+    | V   | V   | V   | F   | F   | F      | F      | F      | F                              |
+    | V   | V   | F   | F   | V   | F      | V      | V      | V                              |
+    | V   | F   | V   | V   | F   | V      | F      | F      | V                              |
+    | V   | F   | F   | V   | V   | V      | F      | F      | V                              |
+    | F   | V   | V   | F   | F   | F      | F      | F      | F                              |
+    | F   | V   | F   | F   | V   | F      | V      | V      | V                              |
+    | F   | F   | V   | V   | F   | F      | F      | F      | F                              |
+    | F   | F   | F   | V   | V   | F      | F      | F      | F                              |
+
+19. **Construa uma tabela verdade para a proposição composta "(p ∨ q ∨ r) ˆ ~(p ˆ q ˆ r)".**
+    | p   | q   | r   | p ˆ q ˆ r | (p ∨ q ∨ r) | ~(p ˆ q ˆ r) | (p ∨ q ∨ r) ˆ ~(p ˆ q ˆ r) |
+    | --- | --- | --- | --------- | ----------- | ----------- | -------------------------- |
+    | V   | V   | V   | V         | V           | F           | V                          |
+    | V   | V   | F   | F         | V           | V           | F                          |
+    | V   | F   | V   | F         | V           | V           | F                          |
+    | V   | F   | F   | F         | V           | V           | F                          |
+    | F   | V   | V   | F         | V           | V           | F                          |
+    | F   | V   | F   | F         | V           | V           | F                          |
+    | F   | F   | V   | F         | V           | V           | F                          |
+    | F   | F   | F   | F         | F           | V           | F                          |
+
+20. **Construa uma tabela verdade para a proposição composta "~(p ˆ q ˆ r) ∨ (p ∨ q ∨ r)".**
+    | p   | q   | r   | p ˆ q ˆ r | ~(p ˆ q ˆ r) | p ∨ q ∨ r | ~ (p ˆ q ˆ r) ∨ (p ∨ q ∨ r) |
+    | --- | --- | --- | --------- | ----------- | --------- | ----------------------------- |
+    | V   | V   | V   | V         | F           | V         | V                             |
+    | V   | V   | F   | F         | V           | V         | V                             |
+    | V   | F   | V   | F         | V           | V         | V                             |
+    | V   | F   | F   | F         | V           | V         | V                             |
+    | F   | V   | V   | F         | V           | V         | V                             |
+    | F   | V   | F   | F         | V           | V         | V                             |
+    | F   | F   | V   | F         | V           | V         | V                             |
+    | F   | F   | F   | F         | V           | F         | F                             |
+
