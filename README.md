@@ -15,15 +15,15 @@ Esta disciplina destina-se a fornecer aos alunos uma introdução abrangente aos
 
 ## Estrutura do Curso
 
-### [Módulo 1: Introdução à Programação e Lógica](módulo_1/README.md)
+### [Módulo 1: Introdução à Programação e Lógica](modulo_1/README.md)
 
 O Módulo 1 abrange os conceitos iniciais, desde a definição do que é ser um programador até a introdução aos fundamentos da lógica de programação. Os tópicos incluem a tabela verdade, fluxogramas, instalação do Python3 e do IDE, primeiros comandos em Python, tipos primitivos, saída de dados, operadores aritméticos, tabela verdade e condições.
 
-### [Módulo 2: Estruturas de Controle](módulo_2/README.md)
+### [Módulo 2: Estruturas de Controle](modulo_2/README.md)
 
 No Módulo 2, os alunos explorarão estruturas de controle, incluindo condições aninhadas, estrutura de repetição for e estrutura de repetição while.
 
-### [Módulo 3: Estruturas de Dados e Funções](módulo_3/README.md)
+### [Módulo 3: Estruturas de Dados e Funções](modulo_3/README.md)
 
 O Módulo 3 concentra-se em estruturas de dados essenciais em Python, como tuplas, listas e dicionários, além de introduzir o conceito de funções. Os alunos aprenderão a organizar código usando módulos e pacotes.
 
