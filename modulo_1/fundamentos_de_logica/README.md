@@ -1,2 +1,0 @@
-# Fundamentos de lógica
-
