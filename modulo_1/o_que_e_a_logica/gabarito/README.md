@@ -1,3 +1,7 @@
+# ATENÇÂO: gabarito com erros.
+
+TODO: corrigir gabaritos
+
 ## Gabarito dos Exercícios de Tabela Verdade
 
 1. **Construa uma tabela verdade para a proposição simples "p".**
