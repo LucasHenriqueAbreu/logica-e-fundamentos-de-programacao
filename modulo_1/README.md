@@ -6,7 +6,6 @@ Este módulo abrange os conceitos iniciais, desde a definição do que é ser um
 
 1. [O que é ser um Programador?](o_que_e_ser_um_programador/README.md)
 2. [O que é a Lógica?](o_que_e_a_logica/README.md)
-3. [Fundamentos de lógica](fundamentos_de_logica/README.md)
 5. [Fluxogramas](fluxogramas/README.md)
 6. [Instalando o Python3 e o IDE](instalando_python3_e_o_ide/README.md)
 7. [Primeiros comandos em Python](primeiros_comandos_em_python/README.md)
