@@ -35,3 +35,8 @@ Uma tabela verdade é uma tabela que lista todas as combinações possíveis de 
 ## 6. Exercícios práticos
 1. Dada a proposição "p OR q", determine seu valor de verdade para p = verdadeiro e q = falso.
 2. Construa uma tabela verdade para a expressão lógica "(p AND q) OR r".
+
+# Mais exercícios
+[Exercícios](exercicios/README.md)
+[Gabarito](gabarito/README.md)
+
