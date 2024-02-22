@@ -107,4 +107,4 @@ Ao final da atividade prática, teremos uma discussão em grupo sobre as soluç�
 
 # Mais Exercícios
 - [Exercícios](exercicios/README.md) 
-= [Gabarito](gabarito/README.md)
+- [Gabarito](gabarito/README.md)
