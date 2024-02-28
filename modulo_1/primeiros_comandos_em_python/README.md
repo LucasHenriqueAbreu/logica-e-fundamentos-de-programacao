@@ -15,4 +15,4 @@ Saiba mais nos seguintes recursos:
 - [Tutorial de Python da W3Schools](https://www.w3schools.com/python/)
 - [Python para Data Science - Tutorial da DataCamp](https://www.datacamp.com/community/tutorials/tutorial-python-numpy-pandas-learn-data-science)
 - [Aula](aula/README.md)
-- [Exercícios](aula/exercicios/EXERCICIOS.md)
+- [Exercícios](aula/exercicios/README.md)

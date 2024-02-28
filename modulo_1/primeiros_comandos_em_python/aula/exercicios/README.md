@@ -6,15 +6,13 @@
 
 3. Converta uma temperatura digitada pelo usuário de Celsius para Fahrenheit e exiba o resultado.
 
-4. Crie uma variável para armazenar o raio de um círculo e calcule sua área (π * raio^2). Exiba o resultado.
+4. Leia o nome, a idade e a cidade do usuário e exiba todas essas informações formatadas em uma única linha.
 
-5. Leia o nome, a idade e a cidade do usuário e exiba todas essas informações formatadas em uma única linha.
+5. Crie uma lista com 5 números e exiba a soma de todos eles.
 
-6. Crie uma lista com 5 números e exiba a soma de todos eles.
+6. Leia um número digitado pelo usuário e exiba o seu dobro.
 
-7. Leia um número digitado pelo usuário e exiba o seu dobro.
+7. Leia dois números digitados pelo usuário e exiba a média entre eles.
 
-8. Leia dois números digitados pelo usuário e exiba a média entre eles.
-
-9. Leia o nome do usuário e exiba uma mensagem de saudação personalizada, incluindo o nome digitado.
+8. Leia o nome do usuário e exiba uma mensagem de saudação personalizada, incluindo o nome digitado.
 
