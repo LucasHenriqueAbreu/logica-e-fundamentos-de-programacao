@@ -5,22 +5,61 @@ Nesta aula, vamos explorar o uso de condições em Python para criar lógicas de
 
 ## Agenda
 1. Introdução às condições em Python
-2. Utilização das estruturas `if`, `elif` e `else`
-3. Exemplos práticos
-4. Prática com exercícios
-5. Próxima etapa
+2. Utilização da estrutura `if`
+3. Utilização das estruturas `elif` e `else`
+4. Condições aninhadas
+5. Exemplos práticos
+6. Prática com exercícios
+7. Próxima etapa
 
 ## Introdução às Condições em Python
 As condições em Python permitem que você execute determinados blocos de código apenas se uma condição específica for atendida. Isso é fundamental para criar lógicas de decisão em seus programas.
 
-## Utilização das Estruturas `if`, `elif` e `else`
-As estruturas de condição em Python são expressas usando as palavras-chave `if`, `elif` (abreviação de "else if") e `else`. Aqui está como elas são usadas:
+## Utilização da Estrutura `if`
+A estrutura de condição em Python é expressa usando a palavra-chave `if`. Aqui está como ela é usada:
 
-- **if**: Verifica se uma condição é verdadeira e executa o bloco de código correspondente.
-- **elif**: Verifica condições adicionais caso a condição inicial seja falsa.
-- **else**: Executa o bloco de código se nenhuma das condições anteriores for verdadeira.
+```python
+if condition:
+    # código executado se condition for verdadeira
+```
 
-Exemplo de estrutura de condição em Python:
+Agora, vamos ver um exemplo prático de como usar o `if`:
+
+### Exemplo: Verificação de Idade
+```python
+idade = 18
+if idade >= 18:
+    print("Você é maior de idade.")
+```
+
+## Utilização das Estruturas `if` e `else`
+As estruturas de condição em Python são expressas usando as palavras-chave `if`, como vimos antes e `else`. Aqui está como elas são usadas:
+
+```python
+if condition:
+    # código executado se condition for verdadeira
+else:
+    # código executado se a condition for falsa
+```
+
+O bloco de código após o `else` é opcional e será executado apenas se a condição do `if` não for verdadeira.
+
+### Exemplo: Verificação de Faixa Etária
+```python
+idade = 22
+
+if idade < 18:
+    print("Você é menor de idade.")
+else:
+    if idade < 60:
+        print("Você é adulto.")
+    else:
+        print("Você é idoso.")
+        
+```
+
+## Utilização das Estruturas `elif` e `else`
+As estruturas de condição em Python também incluem as palavras-chave `elif` (abreviação de "else if") e `else`. Aqui está como elas são usadas:
 
 ```python
 if condition:
@@ -31,19 +70,9 @@ else:
     # código executado se nenhuma das condições anteriores for verdadeira
 ```
 
-## Exemplos Práticos
-Vamos explorar mais exemplos práticos para entender como as condições são utilizadas em Python.
+Agora vamos explorar mais sobre o `elif` e `else`:
 
-### Exemplo 1: Verificação de Número Par
-```python
-numero = 7
-if numero % 2 == 0:
-    print("O número é par")
-else:
-    print("O número é ímpar")
-```
-
-### Exemplo 2: Verificação de Nota
+### Exemplo: Verificação de Nota
 ```python
 nota = 75
 if nota >= 90:
@@ -53,6 +82,22 @@ elif nota >= 60:
 else:
     print("Reprovado.")
 ```
+
+## Condições Aninhadas
+Condições aninhadas referem-se à inclusão de uma estrutura `if` dentro de outra. Isso permite verificar várias condições em uma ordem específica.
+
+```python
+if condition1:
+    # código executado se condition1 for verdadeira
+    if condition2:
+        # código executado se condition1 e condition2 forem verdadeiras
+    else:
+        # código executado se condition1 for verdadeira e condition2 for falsa
+else:
+    # código executado se condition1 for falsa
+```
+
+As condições aninhadas podem ser usadas para implementar lógicas complexas de decisão em seu programa.
 
 ### Exercício: Calculadora em Python
 
@@ -78,5 +123,6 @@ Teste sua calculadora com diferentes números e operações para garantir que el
    - Encorajamento para que os alunos pratiquem programação em Python e explorem mais recursos disponíveis.
 
 # Mais Exercícios
-- [Exercícios](../exercicios/README.md) 
+- [Exercícios](../exercicios/README.md)
+- [Gabarito](../exercicios/GABARITO.md)
 

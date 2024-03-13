@@ -12,10 +12,10 @@
 8. Faça um programa que recebe três números como entrada e verifica se eles podem formar os lados de um triângulo.
 9. Escreva um programa que determina se uma pessoa pode se aposentar com base na sua idade e tempo de contribuição.
 10. Crie um programa que classifique um ano como "ano novo" se ele for maior do que 2022, como "ano atual" se for igual a 2022, ou como "ano passado" se for menor do que 2022.
-11. Desenvolva um programa que verifica se uma palavra é um palíndromo.
+11. ~~Desenvolva um programa que verifica se uma palavra é um palíndromo.~~ (precisamos ver outr conteúdo antes)
 12. Faça um programa que simule um sistema de login, solicitando usuário e senha e verificando se correspondem a um usuário válido.
 13. Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e classifica o resultado como abaixo do peso, peso normal, sobrepeso ou obeso.
-14. Crie um programa que verifica se um número é primo.
+14. ~~Crie um programa que verifica se um número é primo.~~ (precisamos ver outr conteúdo antes)
 15. Desenvolva um programa que verifica se um dado ano é um ano de copa do mundo (considerando que as copas do mundo ocorrem a cada 4 anos, começando em 1930).
 16. Faça um programa que determina se uma data é válida, considerando o dia, mês e ano.
 17. Escreva um programa que classifica um triângulo com base no comprimento de seus lados, sendo:
