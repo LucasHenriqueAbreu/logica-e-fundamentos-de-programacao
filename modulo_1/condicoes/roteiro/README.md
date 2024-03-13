@@ -4,18 +4,135 @@
 Nesta aula, vamos explorar o uso de condições em Python para criar lógicas de decisão em programas. Vamos aprender sobre as estruturas `if`, `elif` e `else` e como utilizá-las para controlar o fluxo de execução do código.
 
 ## Agenda
-1. Introdução às condições em Python
-2. Utilização da estrutura `if`
-3. Utilização das estruturas `elif` e `else`
-4. Condições aninhadas
-5. Exemplos práticos
-6. Prática com exercícios
-7. Próxima etapa
+1. Relebrar o tipo primitivo boolean
+2. Conectivos lógicos
+3. Operadores de comparação
+4. Introdução às condições em Python
+5. Utilização da estrutura `if`
+6. Utilização das estruturas `elif` e `else`
+7. Condições aninhadas
+8. Exemplos práticos
+9. Prática com exercícios
+10. Próxima etapa
 
-## Introdução às Condições em Python
-As condições em Python permitem que você execute determinados blocos de código apenas se uma condição específica for atendida. Isso é fundamental para criar lógicas de decisão em seus programas.
+## Relembrando o Tipo Primitivo Booleano
 
-## Utilização da Estrutura `if`
+O tipo primitivo booleano em Python, `bool`, representa um valor de verdade. Ele pode ter dois valores: `True` ou `False`. Esses valores são frequentemente usados em expressões lógicas e condições.
+
+Exemplo:
+```python
+verdadeiro = True
+falso = False
+print(verdadeiro)  # Saída: True
+print(falso)       # Saída: False
+```
+
+## Conectivos Lógicos
+
+Os conectivos lógicos em Python são utilizados para combinar ou modificar valores booleanos. Os principais conectivos são `and` e `or`.
+
+### Operador `and`
+
+O operador `and` retorna `True` se ambas as expressões forem verdadeiras, caso contrário, retorna `False`.
+
+Exemplo:
+```python
+expressao1 = True
+expressao2 = False
+resultado = expressao1 and expressao2
+print(resultado)  # Saída: False
+```
+
+### Operador `or`
+
+O operador `or` retorna `True` se pelo menos uma das expressões for verdadeira, caso contrário, retorna `False`.
+
+Exemplo:
+```python
+expressao1 = True
+expressao2 = False
+resultado = expressao1 or expressao2
+print(resultado)  # Saída: True
+```
+
+## Operadores de Comparação
+
+Os operadores de comparação são utilizados para comparar dois valores e retornar um valor booleano. Os principais operadores são: `>`, `<`, `>=`, `<=`, `==`, `!=`.
+
+### Operador `>`
+
+O operador `>` verifica se o valor da esquerda é maior que o valor da direita.
+
+Exemplo:
+```python
+x = 5
+y = 3
+resultado = x > y
+print(resultado)  # Saída: True
+```
+
+### Operador `>=`
+
+O operador `>=` verifica se o valor da esquerda é maior ou igual ao valor da direita.
+
+Exemplo:
+```python
+x = 5
+y = 5
+resultado = x >= y
+print(resultado)  # Saída: True
+```
+
+### Operador `<`
+
+O operador `<` verifica se o valor da esquerda é menor que o valor da direita.
+
+Exemplo:
+```python
+x = 3
+y = 5
+resultado = x < y
+print(resultado)  # Saída: True
+```
+
+### Operador `<=`
+
+O operador `<=` verifica se o valor da esquerda é menor ou igual ao valor da direita.
+
+Exemplo:
+```python
+x = 5
+y = 5
+resultado = x <= y
+print(resultado)  # Saída: True
+```
+
+### Operador `==`
+
+O operador `==` verifica se os valores dos dois operandos são iguais.
+
+Exemplo:
+```python
+x = 5
+y = 5
+resultado = x == y
+print(resultado)  # Saída: True
+```
+
+### Operador `!=`
+
+O operador `!=` verifica se os valores dos dois operandos são diferentes.
+
+Exemplo:
+```python
+x = 5
+y = 3
+resultado = x != y
+print(resultado)  # Saída: True
+```
+
+## Uso do `if`
+
 A estrutura de condição em Python é expressa usando a palavra-chave `if`. Aqui está como ela é usada:
 
 ```python
@@ -32,8 +149,9 @@ if idade >= 18:
     print("Você é maior de idade.")
 ```
 
-## Utilização das Estruturas `if` e `else`
-As estruturas de condição em Python são expressas usando as palavras-chave `if`, como vimos antes e `else`. Aqui está como elas são usadas:
+## Uso do `if` com `else`
+
+A estrutura de condição em Python também pode incluir a palavra-chave `else`. Aqui está como ela é usada:
 
 ```python
 if condition:
@@ -47,19 +165,15 @@ O bloco de código após o `else` é opcional e será executado apenas se a cond
 ### Exemplo: Verificação de Faixa Etária
 ```python
 idade = 22
-
 if idade < 18:
     print("Você é menor de idade.")
 else:
-    if idade < 60:
-        print("Você é adulto.")
-    else:
-        print("Você é idoso.")
-        
+    print("Você é adulto.")
 ```
 
-## Utilização das Estruturas `elif` e `else`
-As estruturas de condição em Python também incluem as palavras-chave `elif` (abreviação de "else if") e `else`. Aqui está como elas são usadas:
+## Uso do `if`, `elif` e `else`
+
+A estrutura de condição em Python também inclui as palavras-chave `elif` (abreviação de "else if") e `else`. Aqui está como elas são usadas:
 
 ```python
 if condition:
