@@ -232,6 +232,23 @@ Dica: Utilize estruturas de decisão (`if`, `elif`, `else`) para implementar a l
 
 Teste sua calculadora com diferentes números e operações para garantir que ela está funcionando corretamente.
 
+## Exercício: Verificação de Múltiplos
+
+Escreva um programa em Python que solicite ao usuário que insira um número inteiro. O programa deve então determinar se o número inserido é múltiplo de 3, de 5, de ambos (15) ou de nenhum deles, e imprimir uma mensagem apropriada de acordo com o resultado.
+
+Por exemplo:
+- Se o usuário inserir o número 9, o programa deve imprimir: "9 é múltiplo apenas de 3."
+- Se o usuário inserir o número 25, o programa deve imprimir: "25 é múltiplo apenas de 5."
+- Se o usuário inserir o número 30, o programa deve imprimir: "30 é múltiplo de 3 e de 5."
+- Se o usuário inserir o número 7, o programa deve imprimir: "7 não é múltiplo de 3, 5 ou 15."
+
+**Importante!!:**
+
+Durante esta fase de aprendizado, é importante lembrar que as ferramentas de IA, como o GPT, podem ser muito úteis para ajudá-lo a desenvolver suas habilidades em programação. No entanto, lembre-se de que a IA é tão inteligente quanto a pessoa que a utiliza. Portanto, enquanto é ótimo contar com a ajuda do GPT para gerar respostas de exercícios, é essencial entender os conceitos por trás das soluções e saber o que pedir para obter os melhores resultados.
+
+Divirta-se programando!
+
+
 ## Conclusão:
    - Recapitulação dos principais conceitos abordados na aula.
    - Encorajamento para que os alunos pratiquem programação em Python e explorem mais recursos disponíveis.
