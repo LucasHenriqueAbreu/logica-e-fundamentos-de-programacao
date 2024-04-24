@@ -9,4 +9,4 @@
 - Escreva um programa que leia um número inteiro positivo do usuário e determine se ele é primo ou não.
 - Crie um programa que simule o jogo de adivinhação, onde o usuário deve adivinhar um número entre 1 e 100. O programa deve continuar pedindo palpites até que o usuário acerte o número.
 - Faça um programa que leia um número inteiro positivo do usuário e imprima todos os divisores desse número.
-- Escreva um programa que solicite ao usuário um número e imprima a sequência de Fibonacci até esse número.
+- Escreva um programa que solicite ao usuário um número e imprima a sequência de Fibonacci até esse número.V

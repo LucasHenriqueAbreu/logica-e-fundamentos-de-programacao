@@ -9,3 +9,4 @@ Os dicionários em Python são estruturas de dados poderosas que permitem armaze
 - [Tutorial de Python da W3Schools sobre Dicionários](https://www.w3schools.com/python/python_dictionaries.asp)
 - [Aula](aula_dicionarios/README.md)
 - [Exercícios](exercicios_dicionarios/README.md)
+- [Desafio](exercicios_dicionarios/desafio/README.md)
