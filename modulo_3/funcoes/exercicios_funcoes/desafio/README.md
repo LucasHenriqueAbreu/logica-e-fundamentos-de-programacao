@@ -10,11 +10,21 @@ Desenvolver um sistema simples em Python que apresente um menu para o usuário c
 
 2. **Mostrar usuários cadastrados**
    - Exibir na tela todos os usuários cadastrados até o momento, mostrando seus nomes e idades.
+  
+3. **Editar usuários cadastrados**
+   - Soliciar ao usuário qual usuário deseja alterar e permitir editar os valores contidos para este usuário.
 
-3. **Sair**
+4. **Excluir usuários cadastrados**
+   - Permitir o usuário do programa remover um usuário cadastrado.
+  
+5. **Sair**
    - Encerrar o programa.
+
+6. **Mostrar dados sempre que uma ação for concluída**
+   - Faça o programa sempre mostrar a lista após qualquer ação.
 
 
 ## Observações
 - Você pode adicionar funcionalidades extras ao sistema, como editar ou excluir usuários, conforme achar conveniente.
 - Certifique-se de que o código esteja bem comentado e que as variáveis tenham nomes claros.
+- Utilize funções para deixar o código mais legível e reaproveitável.
