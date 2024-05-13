@@ -40,3 +40,5 @@ Em vez de entregar o código, cada aluno deverá fazer uma apresentação indivi
 - **Clareza e Legibilidade do Código:** Código bem organizado, comentado e fácil de entender.
 
 Boa sorte e bom trabalho!
+
+
