@@ -10,6 +10,12 @@ Este módulo concentra-se em estruturas de dados essenciais em Python, como tupl
 4. [Funções](funcoes/README.md)
 5. [Módulos e Pacotes](modulos_e_pacotes/README.md)
 
+## Trabalho
+
+Neste trabalho vamos o clássico Jogo da Velha (ou Tic-Tac-Toe). O jogo deverá ser jogado por duas pessoas, alternando as jogadas entre os jogadores, sem necessidade de interação com a máquina.
+
+[Mais informações](trabalho/README.md)
+
 ## Avaliação
 
 Os alunos serão avaliados por meio de exercícios práticos e projetos relacionados aos tópicos abordados neste módulo.
