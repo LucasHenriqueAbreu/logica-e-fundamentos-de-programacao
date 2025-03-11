@@ -1,5 +1,5 @@
 ## Trabalho: Desafios de Programação
-Este trabalho consiste na resolução de dois desafios de programação utilizando a linguagem de programação de sua escolha. Os desafios abrangem diferentes áreas da programação, incluindo algoritmos, lógica de programação e manipulação de dados. O objetivo é testar suas habilidades de resolução de problemas e sua capacidade de aplicar os conceitos aprendidos em sala de aula.
+Este trabalho consiste na resolução de dois desafios de programação utilizando a linguagem de programação de sua escolha, entretanto, a sugestão é que seja usado Python, pois, esta é a linguagem usada na disciplina. Os desafios abrangem diferentes áreas da programação, incluindo algoritmos, lógica de programação e manipulação de dados. O objetivo é testar suas habilidades de resolução de problemas e sua capacidade de aplicar os conceitos aprendidos em sala de aula.
 
 ### Desafio 1: Jokenpo
 
