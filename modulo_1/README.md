@@ -18,3 +18,7 @@ Este módulo abrange os conceitos iniciais, desde a definição do que é ser um
 Este trabalho consiste na resolução de dois desafios de programação utilizando a linguagem de programação de sua escolha. Os desafios abrangem diferentes áreas da programação, incluindo algoritmos, lógica de programação e manipulação de dados. O objetivo é testar suas habilidades de resolução de problemas e sua capacidade de aplicar os conceitos aprendidos em sala de aula.
 
 [Mais informações](trabalho/README.md)
+
+## Dojo
+
+[Mais informações](dojo/README.md)
