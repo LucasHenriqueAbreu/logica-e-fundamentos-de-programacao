@@ -33,4 +33,6 @@ As funções em Python são blocos de código que realizam tarefas específicas 
 - [Tutorial de Python da W3Schools sobre Funções](https://www.w3schools.com/python/python_functions.asp)
 - [Aula](aula_funcoes/README.md)
 - [Exercícios](exercicios_funcoes/README.md)
-- [Desafio](exercicios_funcoes/desafio/README.md)
+- [Desafio 1](exercicios_funcoes/desafio/README.md)
+- [Desafio 2](exercicios_funcoes/desafio2/README.md)
+
